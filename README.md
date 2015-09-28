@@ -33,4 +33,4 @@ And then open `ios/rnMuxNodeButt.xcodeproj` in Xcode, click Run button(cmd+R).
 
 The screenshot in simulator would looks like as following.
 
-![Screenshot](https://github.com/jacobbubu/rnMuxNodeBut/docs/Screen Shot.png)
+![Screenshot](https://github.com/jacobbubu/rnMuxNodeButt/blob/master/docs/Screen%20Shot.png?raw=true)
